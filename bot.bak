@@ -1,0 +1,29 @@
+import yaml
+from splinterlands.api.client import get_current_battle
+from splinterlands.game.battle_state import BattleState
+from splinterlands.strategy.rule_engine import choose_team
+
+
+def load_config():
+    with open("config/config.yaml", "r") as f:
+        return yaml.safe_load(f)
+
+def main():
+    config = load_config()
+    username = config["account"]["username"]
+
+    print(f"Checking battle for {username}...")
+
+    player_data = get_current_battle(username)
+
+    try:
+        battle = BattleState(player_data)
+    except ValueError as e:
+        print("No active battle.")
+        return
+
+    choose_team(battle)
+
+if __name__ == "__main__":
+    main()
+

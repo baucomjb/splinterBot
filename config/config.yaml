@@ -1,0 +1,8 @@
+account:
+  username: "tardigrade123"
+  posting_key: "Y5KdyApcY6NcegN4BfqKJPNpBGhopuqs4U17PFonqkaCyE4f5KJ4"
+
+bot:
+  mode: "wild"
+  log_level: "info"
+
