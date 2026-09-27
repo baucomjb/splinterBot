@@ -1,0 +1,6768 @@
+splinter: black
+summoners:
+- name: Octavia Shadowmeld
+  level: 5
+  copies: 7
+  rarity: 2
+  gold: false
+  abilities:
+  - - C
+    - o
+    - n
+    - s
+    - c
+    - r
+    - i
+    - p
+    - t
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+- name: Thaddius Brood
+  level: 8
+  copies: 2
+  rarity: 2
+  gold: true
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+- name: Thalgrimore
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+- name: Lorkus
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  magic:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+- name: Octavia Shadowmeld
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - C
+    - o
+    - n
+    - s
+    - c
+    - r
+    - i
+    - p
+    - t
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+- name: Reklah
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+monsters:
+- name: Pelacor Deceiver
+  level: 10
+  copies: 5
+  rarity: 1
+  gold: false
+  abilities:
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  mana: &id015
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack: &id016
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  magic: &id017
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id018
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id019
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  armor: &id020
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id021
+  - 8
+  - 8
+  - 8
+  - 9
+  - 10
+  - 9
+  - 10
+  - 10
+  - 10
+  - 10
+- name: Ever-Hungry Skull
+  level: 8
+  copies: 14
+  rarity: 1
+  gold: false
+  abilities:
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - - Thorns
+  - []
+  - []
+  mana: &id064
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack: &id065
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  magic: &id066
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id067
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id068
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  armor: &id069
+  - 7
+  - 7
+  - 8
+  - 8
+  - 9
+  - 9
+  - 10
+  - 10
+  - 11
+  - 11
+  health: &id070
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+- name: Possessed Puppet
+  level: 7
+  copies: 10
+  rarity: 1
+  gold: false
+  abilities:
+  - - Double Strike
+  - []
+  - []
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  mana: &id001
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack: &id002
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  magic: &id003
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id004
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id005
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  armor: &id006
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id007
+  - 3
+  - 4
+  - 4
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Wily Coyotian
+  level: 7
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - - Phase
+  - []
+  - []
+  mana: &id036
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  attack: &id037
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  magic: &id038
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id039
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id040
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  armor: &id041
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  health: &id042
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+- name: Broken Earth Thug
+  level: 6
+  copies: 12
+  rarity: 1
+  gold: false
+  abilities:
+  - - Opportunity
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  - []
+  - []
+  mana: &id043
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack: &id044
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  magic: &id045
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id046
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id047
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id048
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  health: &id049
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+- name: Whistling Damon
+  level: 6
+  copies: 15
+  rarity: 1
+  gold: false
+  abilities:
+  - - Snipe
+    - Bloodlust
+  - []
+  - []
+  - []
+  - - Piercing
+  - []
+  - []
+  - []
+  mana:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  speed:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 3
+  - 4
+  - 5
+  - 5
+  - 5
+  - 4
+  - 5
+  - 5
+  - 5
+- name: Witch of Warwick
+  level: 6
+  copies: 18
+  rarity: 1
+  gold: false
+  abilities:
+  - - Life Leech
+    - Bloodlust
+  - []
+  - []
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana: &id071
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack: &id072
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id073
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged: &id074
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id075
+  - 1
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  armor: &id076
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id077
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+- name: Nim Guard Captain
+  level: 5
+  copies: 10
+  rarity: 1
+  gold: false
+  abilities:
+  - - Void
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: &id050
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack: &id051
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  magic: &id052
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id053
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id054
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id055
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  health: &id056
+  - 5
+  - 5
+  - 6
+  - 6
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+- name: Spinetail Fiend
+  level: 5
+  copies: 9
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: &id057
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack: &id058
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  magic: &id059
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id060
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id061
+  - 3
+  - 4
+  - 4
+  - 5
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id062
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id063
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Black Widow
+  level: 5
+  copies: 8
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - - Poison
+  - []
+  - []
+  - []
+  mana: &id183
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  attack: &id184
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id185
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id186
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  speed: &id187
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id188
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  health: &id189
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+- name: Ravenhood Warden
+  level: 5
+  copies: 3
+  rarity: 2
+  gold: false
+  abilities:
+  - - Protect
+  - []
+  - []
+  - []
+  - - Inspire
+  - []
+  - []
+  - - Fury
+  mana: &id022
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id023
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id024
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id025
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  speed: &id026
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  armor: &id027
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id028
+  - 2
+  - 3
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+- name: Dark Arborist
+  level: 5
+  copies: 2
+  rarity: 2
+  gold: false
+  abilities:
+  - - Demoralize
+  - []
+  - - Magic Reflect
+  - []
+  - []
+  - []
+  - []
+  - - Void
+  mana:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 7
+  - 8
+  - 8
+- name: Kotriphus Bayne
+  level: 5
+  copies: 7
+  rarity: 2
+  gold: false
+  abilities:
+  - - Bloodlust
+  - []
+  - []
+  - []
+  - - Retaliate
+  - []
+  - []
+  - - Enrage
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 12
+  - 12
+  - 13
+  - 13
+  - 13
+  - 13
+  - 14
+  - 14
+- name: Liza Fox
+  level: 5
+  copies: 10
+  rarity: 2
+  gold: false
+  abilities:
+  - - Bloodlust
+  - []
+  - []
+  - - Stun
+  - []
+  - []
+  - - Silence
+  - []
+  mana: &id078
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack: &id079
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id080
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id081
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  speed: &id082
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id083
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id084
+  - 5
+  - 6
+  - 6
+  - 6
+  - 7
+  - 8
+  - 8
+  - 8
+- name: Ujurak Brave
+  level: 4
+  copies: 12
+  rarity: 1
+  gold: false
+  abilities:
+  - - Immunity
+  - []
+  - []
+  - - Silence
+  - []
+  - []
+  - []
+  - []
+  mana: &id008
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack: &id009
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 3
+  magic: &id010
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id011
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id012
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id013
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  health: &id014
+  - 7
+  - 8
+  - 9
+  - 8
+  - 9
+  - 9
+  - 9
+  - 9
+  - 10
+  - 9
+- name: Grim Bonewhip
+  level: 4
+  copies: 13
+  rarity: 1
+  gold: false
+  abilities:
+  - - Reach
+  - []
+  - - Rust
+  - []
+  - - Swiftness
+  - []
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+- name: Thornmaw Berserker
+  level: 4
+  copies: 3
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - - Final Rest
+  - []
+  - - Magic Reflect
+  - []
+  - []
+  - []
+  - - Life Leech
+  mana:
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  health:
+  - 7
+  - 7
+  - 7
+  - 7
+  - 8
+  - 8
+  - 8
+  - 8
+  - 9
+  - 9
+- name: Meriput Slinger
+  level: 4
+  copies: 4
+  rarity: 2
+  gold: false
+  abilities:
+  - - Impede
+  - []
+  - []
+  - - Slow
+  - - Deflect
+  - []
+  - []
+  - - Redemption
+  mana: &id141
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack: &id142
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id143
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id144
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  speed: &id145
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id146
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id147
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 7
+  - 7
+- name: Arcane Curator
+  level: 4
+  copies: 3
+  rarity: 2
+  gold: false
+  abilities:
+  - - Untrainable
+    - Backfire
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 3
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Careless Badger
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - - Opportunity
+  - []
+  - []
+  - []
+  - []
+  - []
+  - - Scavenger
+  mana:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  speed:
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 3
+  - 3
+- name: Venari Bonesmith
+  level: 4
+  copies: 7
+  rarity: 2
+  gold: false
+  abilities:
+  - - Life Leech
+  - []
+  - []
+  - - Poison
+  - []
+  - []
+  - []
+  - - Dispel
+  mana: &id029
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id030
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id031
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  ranged: &id032
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id033
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id034
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id035
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+- name: Arachne Weaver
+  level: 4
+  copies: 5
+  rarity: 3
+  gold: false
+  abilities:
+  - - Corrupted Healing
+  - []
+  - - Scavenger
+  - []
+  - []
+  - - Poison
+  - []
+  - []
+  mana: &id148
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack: &id149
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id150
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged: &id151
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id152
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor: &id153
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id154
+  - 3
+  - 4
+  - 4
+  - 5
+  - 7
+  - 7
+- name: Trapp Falloway
+  level: 4
+  copies: 5
+  rarity: 3
+  gold: false
+  abilities:
+  - - Weaken
+    - Bloodlust
+  - []
+  - []
+  - - Halving
+  - []
+  - - True Strike
+  - []
+  - []
+  mana: &id085
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id086
+  - 4
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+  magic: &id087
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id088
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id089
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id090
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id091
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Riftwing
+  level: 8
+  copies: 2
+  rarity: 1
+  gold: true
+  abilities:
+  - - Flying
+    - Scavenger
+  - []
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  - - Headwinds
+  mana: &id113
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id114
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id115
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id116
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id117
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  armor: &id118
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id119
+  - 5
+  - 6
+  - 6
+  - 7
+  - 6
+  - 7
+  - 7
+  - 6
+  - 7
+  - 8
+- name: Savage Butcher
+  level: 3
+  copies: 9
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - []
+  - - Reach
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Moros Malik
+  level: 3
+  copies: 11
+  rarity: 2
+  gold: false
+  abilities:
+  - - Opportunity
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  speed:
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+- name: Gravebrand Warlock
+  level: 3
+  copies: 11
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - - Swiftness
+  - []
+  - - Execute
+  - []
+  - []
+  - []
+  - - Soul Siphon
+  mana: &id190
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  attack: &id191
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id192
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  ranged: &id193
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id194
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  armor: &id195
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id196
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 7
+  - 7
+- name: Harklaw
+  level: 4
+  copies: 3
+  rarity: 4
+  gold: false
+  abilities:
+  - - Shield
+  - - Immunity
+  - - Demoralize
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 8
+  - 8
+  - 8
+  - 8
+  attack:
+  - 2
+  - 2
+  - 2
+  - 3
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 3
+  - 3
+  - 3
+  - 3
+  health:
+  - 9
+  - 9
+  - 9
+  - 10
+- name: Djinn Muirat
+  level: 4
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Void Armor
+    - Knock Out
+  - - Giant Killer
+  - - Magic Reflect
+  - - Forcefield
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 9
+  - 9
+  - 9
+  - 9
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 3
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 4
+  - 4
+  - 4
+  - 4
+  health:
+  - 7
+  - 8
+  - 8
+  - 8
+- name: Will-o-Wisp
+  level: 3
+  copies: 3
+  rarity: 3
+  gold: false
+  abilities:
+  - - Flying
+    - Weaken
+  - []
+  - []
+  - - Silence
+  - []
+  - - Blind
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 9
+  - 10
+  - 11
+  - 11
+  - 12
+  - 12
+- name: Lenore Nevermore
+  level: 3
+  copies: 2
+  rarity: 3
+  gold: false
+  abilities:
+  - - Snipe
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  speed:
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 6
+  - 7
+  - 8
+  - 8
+  - 8
+  - 8
+- name: Sorrow Harvester
+  level: 3
+  copies: 1
+  rarity: 3
+  gold: false
+  abilities:
+  - - Weaken
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Cursed Windeku
+  level: 5
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Thorns
+  - []
+  - []
+  - []
+  - - Heal
+  - []
+  - []
+  - - Slow
+  mana: &id134
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack: &id135
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  magic: &id136
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id137
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id138
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id139
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id140
+  - 9
+  - 10
+  - 10
+  - 11
+  - 10
+  - 11
+  - 11
+  - 11
+- name: Usut
+  level: 3
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Flying
+    - Bloodlust
+  - - Oppress
+  - - Heal
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 10
+  - 10
+  - 10
+  - 10
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 1
+  - 1
+  - 1
+  armor:
+  - 4
+  - 4
+  - 4
+  - 4
+  health:
+  - 9
+  - 10
+  - 11
+  - 11
+- name: Octopider
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - []
+  - - Demoralize
+  - []
+  - []
+  - []
+  - - Blind
+  - []
+  mana:
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 5
+  speed:
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 7
+  - 8
+  - 8
+  - 8
+  - 7
+  - 8
+  - 8
+  - 8
+- name: Carrion Shade
+  level: 2
+  copies: 4
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - []
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: &id211
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  attack: &id212
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  magic: &id213
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id214
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id215
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  armor: &id216
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id217
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+- name: Shadow Snitch
+  level: 2
+  copies: 5
+  rarity: 1
+  gold: false
+  abilities:
+  - - Reach
+  - []
+  - []
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana: &id092
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id093
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  magic: &id094
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id095
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id096
+  - 1
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id097
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id098
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 7
+  - 7
+- name: Crypt Beetle
+  level: 2
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - - Shield
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: &id218
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack: &id219
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  magic: &id220
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id221
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id222
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor: &id223
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  health: &id224
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 5
+  - 5
+  - 5
+- name: Silent Sha-vi
+  level: 2
+  copies: 2
+  rarity: 1
+  gold: false
+  abilities:
+  - - Sneak
+  - []
+  - []
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  mana: &id099
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack: &id100
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  magic: &id101
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id102
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id103
+  - 3
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  armor: &id104
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id105
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 7
+  - 7
+  - 7
+  - 7
+- name: Possessed Puppet
+  level: 5
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Double Strike
+  - []
+  - []
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  mana: *id001
+  attack: *id002
+  magic: *id003
+  ranged: *id004
+  speed: *id005
+  armor: *id006
+  health: *id007
+- name: Ujurak Brave
+  level: 5
+  copies: 3
+  rarity: 1
+  gold: true
+  abilities:
+  - - Immunity
+  - []
+  - []
+  - - Silence
+  - []
+  - []
+  - []
+  - []
+  mana: *id008
+  attack: *id009
+  magic: *id010
+  ranged: *id011
+  speed: *id012
+  armor: *id013
+  health: *id014
+- name: Fenmoor Gorgon
+  level: 5
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - []
+  - []
+  - - Demoralize
+  - []
+  - - Cripple
+  - []
+  - []
+  - []
+  mana: &id106
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack: &id107
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id108
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged: &id109
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id110
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor: &id111
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id112
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 9
+- name: Pelacor Deceiver
+  level: 5
+  copies: 3
+  rarity: 1
+  gold: true
+  abilities:
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  mana: *id015
+  attack: *id016
+  magic: *id017
+  ranged: *id018
+  speed: *id019
+  armor: *id020
+  health: *id021
+- name: Revealer
+  level: 2
+  copies: 3
+  rarity: 3
+  gold: false
+  abilities:
+  - - Stun
+  - []
+  - []
+  - - Immunity
+  - []
+  - - Deflect
+  - []
+  - []
+  mana: &id204
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id205
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id206
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged: &id207
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id208
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor: &id209
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id210
+  - 4
+  - 5
+  - 4
+  - 4
+  - 5
+  - 5
+- name: Ravenhood Warden
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Protect
+  - []
+  - []
+  - []
+  - - Inspire
+  - []
+  - []
+  - - Fury
+  mana: *id022
+  attack: *id023
+  magic: *id024
+  ranged: *id025
+  speed: *id026
+  armor: *id027
+  health: *id028
+- name: Venari Bonesmith
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Life Leech
+  - []
+  - []
+  - - Poison
+  - []
+  - []
+  - []
+  - - Dispel
+  mana: *id029
+  attack: *id030
+  magic: *id031
+  ranged: *id032
+  speed: *id033
+  armor: *id034
+  health: *id035
+- name: Dhampir Stalker
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - True Strike
+  - []
+  - []
+  - []
+  - - Deathblow
+  - []
+  - []
+  - []
+  mana: &id127
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack: &id128
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id129
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id130
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  speed: &id131
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  armor: &id132
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id133
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 7
+  - 7
+  - 7
+- name: Skok Duskblight
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Weapons Training
+  - - Fury
+  - - Resurrect
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 8
+  - 8
+  - 8
+  - 8
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 7
+  - 7
+  - 7
+  - 7
+- name: Grifzi
+  level: 2
+  copies: 4
+  rarity: 4
+  gold: false
+  abilities:
+  - - Sneak
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 1
+  - 1
+  - 1
+  - 1
+  attack:
+  - 1
+  - 1
+  - 1
+  - 2
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 2
+  - 3
+  - 3
+  - 3
+- name: Death Ranger
+  level: 2
+  copies: 2
+  rarity: 4
+  gold: false
+  abilities:
+  - - Void Armor
+  - - Close Range
+  - []
+  - - Scavenger
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 4
+  - 4
+  - 4
+  - 4
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 1
+  - 1
+  - 2
+  - 2
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 6
+  - 7
+  - 7
+  - 7
+  health:
+  - 4
+  - 4
+  - 4
+  - 4
+- name: Little Sister
+  level: 2
+  copies: 2
+  rarity: 4
+  gold: false
+  abilities:
+  - - Life Leech
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 1
+  - 2
+  - 2
+  - 2
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 3
+  - 3
+  - 3
+- name: Wily Coyotian
+  level: 4
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - - Phase
+  - []
+  - []
+  mana: *id036
+  attack: *id037
+  magic: *id038
+  ranged: *id039
+  speed: *id040
+  armor: *id041
+  health: *id042
+- name: Wailing Wraith
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Armored Strike
+    - Reach
+  - []
+  - []
+  - - Affliction
+  - []
+  - - Rust
+  - []
+  - []
+  mana:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack:
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  armor:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  health:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 5
+- name: Broken Earth Thug
+  level: 4
+  copies: 3
+  rarity: 1
+  gold: true
+  abilities:
+  - - Opportunity
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  - []
+  - []
+  mana: *id043
+  attack: *id044
+  magic: *id045
+  ranged: *id046
+  speed: *id047
+  armor: *id048
+  health: *id049
+- name: Nim Guard Captain
+  level: 4
+  copies: 3
+  rarity: 1
+  gold: true
+  abilities:
+  - - Void
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: *id050
+  attack: *id051
+  magic: *id052
+  ranged: *id053
+  speed: *id054
+  armor: *id055
+  health: *id056
+- name: Spinetail Fiend
+  level: 4
+  copies: 2
+  rarity: 1
+  gold: true
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: *id057
+  attack: *id058
+  magic: *id059
+  ranged: *id060
+  speed: *id061
+  armor: *id062
+  health: *id063
+- name: Ever-Hungry Skull
+  level: 4
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - - Thorns
+  - []
+  - []
+  mana: *id064
+  attack: *id065
+  magic: *id066
+  ranged: *id067
+  speed: *id068
+  armor: *id069
+  health: *id070
+- name: Witch of Warwick
+  level: 4
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Life Leech
+    - Bloodlust
+  - []
+  - []
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana: *id071
+  attack: *id072
+  magic: *id073
+  ranged: *id074
+  speed: *id075
+  armor: *id076
+  health: *id077
+- name: Liza Fox
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Bloodlust
+  - []
+  - []
+  - - Stun
+  - []
+  - []
+  - - Silence
+  - []
+  mana: *id078
+  attack: *id079
+  magic: *id080
+  ranged: *id081
+  speed: *id082
+  armor: *id083
+  health: *id084
+- name: Trapp Falloway
+  level: 3
+  copies: 1
+  rarity: 3
+  gold: true
+  abilities:
+  - - Weaken
+    - Bloodlust
+  - []
+  - []
+  - - Halving
+  - []
+  - - True Strike
+  - []
+  - []
+  mana: *id085
+  attack: *id086
+  magic: *id087
+  ranged: *id088
+  speed: *id089
+  armor: *id090
+  health: *id091
+- name: Shadow Snitch
+  level: 4
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Reach
+  - []
+  - []
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana: *id092
+  attack: *id093
+  magic: *id094
+  ranged: *id095
+  speed: *id096
+  armor: *id097
+  health: *id098
+- name: Silent Sha-vi
+  level: 4
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Sneak
+  - []
+  - []
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  mana: *id099
+  attack: *id100
+  magic: *id101
+  ranged: *id102
+  speed: *id103
+  armor: *id104
+  health: *id105
+- name: Soul Strangler
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - - Poison
+  mana: &id120
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack: &id121
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id122
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id123
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  speed: &id124
+  - 2
+  - 3
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id125
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id126
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+- name: Chaos Animator
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - - Amplify
+  - []
+  - - Void
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  armor:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  health:
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 7
+  - 7
+- name: Ahna-Chei Botanist
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - - Return Fire
+  - []
+  - []
+  - - Blind
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  health:
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+- name: New Sskah Drudge
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - - True Strike
+  - []
+  - []
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  speed:
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 2
+  - 1
+  - 2
+  - 2
+  health:
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 7
+- name: Helheim Demon
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - - Flying
+    - Taunt
+  - []
+  - - Corrosive Ward
+  - []
+  - []
+  - []
+  - []
+  - - Cripple
+  mana:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  armor:
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  health:
+  - 8
+  - 9
+  - 9
+  - 9
+  - 9
+  - 9
+  - 9
+  - 10
+- name: Barashkukor
+  level: 1
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Fury
+  - - Weaken
+  - - Magic Reflect
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 13
+  - 13
+  - 13
+  - 13
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 5
+  - 5
+  - 5
+  - 5
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 4
+  - 4
+  armor:
+  - 2
+  - 3
+  - 4
+  - 5
+  health:
+  - 6
+  - 6
+  - 7
+  - 8
+- name: Fenmoor Gorgon
+  level: 1
+  copies: 3
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - []
+  - - Demoralize
+  - []
+  - - Cripple
+  - []
+  - []
+  - []
+  mana: *id106
+  attack: *id107
+  magic: *id108
+  ranged: *id109
+  speed: *id110
+  armor: *id111
+  health: *id112
+- name: Gonach Excavator
+  level: 1
+  copies: 2
+  rarity: 1
+  gold: false
+  abilities:
+  - - Sneak
+    - Reckless
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: &id155
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack: &id156
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  magic: &id157
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id158
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id159
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+  armor: &id160
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  health: &id161
+  - 2
+  - 3
+  - 3
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+- name: Silverleaf Warlock
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - []
+  - - Swiftness
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  - []
+  mana: &id162
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack: &id163
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id164
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged: &id165
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id166
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  armor: &id167
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id168
+  - 4
+  - 4
+  - 5
+  - 6
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 8
+- name: Thragha
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - - Void
+    - Painforge
+  - []
+  - []
+  - - Flank
+  - []
+  - []
+  - []
+  - - Life Leech
+  mana: &id169
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack: &id170
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  magic: &id171
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id172
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id173
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor: &id174
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id175
+  - 5
+  - 5
+  - 6
+  - 6
+  - 7
+  - 7
+  - 8
+  - 9
+- name: Shadowfey Sheik
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - - Flying
+    - Life Leech
+  - []
+  - []
+  - - Painforge
+  - []
+  - []
+  - []
+  - - Affliction
+  mana: &id176
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack: &id177
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id178
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  ranged: &id179
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id180
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id181
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id182
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 7
+  - 7
+  - 8
+- name: Deep Delver
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - - Rust
+  - []
+  - []
+  - - Corrupted Healing
+  - []
+  - []
+  - []
+  - - Deflection Shroud
+  mana:
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  health:
+  - 4
+  - 4
+  - 5
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+- name: Haunted Spirit
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - - Heal
+  - []
+  - []
+  - - Magic Reflect
+  - []
+  - []
+  - - Void
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 7
+  - 8
+  - 8
+  - 8
+  - 9
+  - 9
+  - 9
+  - 10
+- name: Joraki Venshiro
+  level: 1
+  copies: 2
+  rarity: 3
+  gold: false
+  abilities:
+  - - Painforge
+  - - Blind
+  - - Piercing
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana: &id197
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  attack: &id198
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id199
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id200
+  - 3
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  speed: &id201
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id202
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id203
+  - 6
+  - 6
+  - 6
+  - 7
+  - 8
+  - 8
+- name: Shire Knacker
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+  abilities:
+  - - Snipe
+  - []
+  - []
+  - []
+  - - Invigorate
+  - []
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  speed:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 1
+  - 1
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 5
+  - 5
+  health:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Doldrus
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+  abilities:
+  - - Shapeshift
+  - - Cleanse
+  - []
+  - - Deflection Shroud
+  - []
+  - - Corrupted Healing
+  - []
+  - - Flame Fed
+  mana:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  health:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 7
+  - 7
+- name: Xulax Nightwind
+  level: 1
+  copies: 2
+  rarity: 4
+  gold: false
+  abilities:
+  - - Void Armor
+    - Bloodlust
+  - - Thorns
+  - - Void
+  - - Magic Reflect
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 9
+  - 9
+  - 9
+  - 9
+  attack:
+  - 3
+  - 4
+  - 4
+  - 5
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 7
+  - 7
+  - 7
+  - 7
+  health:
+  - 7
+  - 7
+  - 8
+  - 8
+- name: Riftwing
+  level: 1
+  copies: 4
+  rarity: 1
+  gold: false
+  abilities:
+  - - Flying
+    - Scavenger
+  - []
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  - - Headwinds
+  mana: *id113
+  attack: *id114
+  magic: *id115
+  ranged: *id116
+  speed: *id117
+  armor: *id118
+  health: *id119
+- name: Soul Strangler
+  level: 1
+  copies: 3
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - - Poison
+  mana: *id120
+  attack: *id121
+  magic: *id122
+  ranged: *id123
+  speed: *id124
+  armor: *id125
+  health: *id126
+- name: Life Sapper
+  level: 1
+  copies: 4
+  rarity: 2
+  gold: false
+  abilities:
+  - - Life Leech
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - - Redemption
+  mana:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 2
+  - 2
+  - 3
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+- name: Dhampir Stalker
+  level: 1
+  copies: 3
+  rarity: 2
+  gold: false
+  abilities:
+  - - True Strike
+  - []
+  - []
+  - []
+  - - Deathblow
+  - []
+  - []
+  - []
+  mana: *id127
+  attack: *id128
+  magic: *id129
+  ranged: *id130
+  speed: *id131
+  armor: *id132
+  health: *id133
+- name: Cursed Windeku
+  level: 1
+  copies: 4
+  rarity: 2
+  gold: false
+  abilities:
+  - - Thorns
+  - []
+  - []
+  - []
+  - - Heal
+  - []
+  - []
+  - - Slow
+  mana: *id134
+  attack: *id135
+  magic: *id136
+  ranged: *id137
+  speed: *id138
+  armor: *id139
+  health: *id140
+- name: Magi Necrosi
+  level: 1
+  copies: 1
+  rarity: 3
+  gold: false
+  abilities:
+  - - Snipe
+    - Camouflage
+  - []
+  - []
+  - - Oppress
+  - []
+  - - Stun
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+- name: Insidious Warlock
+  level: 1
+  copies: 1
+  rarity: 3
+  gold: false
+  abilities:
+  - - Recharge
+  - []
+  - []
+  - - Blind
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 5
+  - 5
+  - 6
+  - 5
+  - 6
+  - 6
+- name: Weirding Warrior
+  level: 1
+  copies: 1
+  rarity: 3
+  gold: false
+  abilities:
+  - - Shatter
+  - []
+  - []
+  - - Amplify
+  - []
+  - - Rust
+  - []
+  - []
+  mana:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  speed:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+- name: Corpse Spawn
+  level: 1
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - - Silence
+  - []
+  - []
+  - []
+  - []
+  mana:
+  - 0
+  - 0
+  - 0
+  - 0
+  attack:
+  - 1
+  - 1
+  - 1
+  - 1
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 1
+  - 1
+  - 2
+  - 2
+- name: Fenmoor Haunt
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Sneak
+  - []
+  - []
+  - []
+  - - Void
+  - []
+  - []
+  - []
+  mana:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  attack:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 2
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 3
+  - 4
+  - 4
+  - 4
+  - 5
+  - 4
+  - 5
+  - 5
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+- name: Chaos Jailer
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Opportunity
+    - Ambush
+  - - Poison
+  - []
+  - []
+  - - Slow
+  - []
+  - []
+  - []
+  mana:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  attack:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  health:
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 7
+  - 7
+- name: Meriput Slinger
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Impede
+  - []
+  - []
+  - - Slow
+  - - Deflect
+  - []
+  - []
+  - - Redemption
+  mana: *id141
+  attack: *id142
+  magic: *id143
+  ranged: *id144
+  speed: *id145
+  armor: *id146
+  health: *id147
+- name: Arachne Weaver
+  level: 2
+  copies: 1
+  rarity: 3
+  gold: true
+  abilities:
+  - - Corrupted Healing
+  - []
+  - - Scavenger
+  - []
+  - []
+  - - Poison
+  - []
+  - []
+  mana: *id148
+  attack: *id149
+  magic: *id150
+  ranged: *id151
+  speed: *id152
+  armor: *id153
+  health: *id154
+- name: Gonach Excavator
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Sneak
+    - Reckless
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: *id155
+  attack: *id156
+  magic: *id157
+  ranged: *id158
+  speed: *id159
+  armor: *id160
+  health: *id161
+- name: Silverleaf Warlock
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - []
+  - - Swiftness
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  - []
+  mana: *id162
+  attack: *id163
+  magic: *id164
+  ranged: *id165
+  speed: *id166
+  armor: *id167
+  health: *id168
+- name: Thragha
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Void
+    - Painforge
+  - []
+  - []
+  - - Flank
+  - []
+  - []
+  - []
+  - - Life Leech
+  mana: *id169
+  attack: *id170
+  magic: *id171
+  ranged: *id172
+  speed: *id173
+  armor: *id174
+  health: *id175
+- name: Shadowfey Sheik
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Flying
+    - Life Leech
+  - []
+  - []
+  - - Painforge
+  - []
+  - []
+  - []
+  - - Affliction
+  mana: *id176
+  attack: *id177
+  magic: *id178
+  ranged: *id179
+  speed: *id180
+  armor: *id181
+  health: *id182
+- name: Black Widow
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - []
+  - []
+  - []
+  - []
+  - - Poison
+  - []
+  - []
+  - []
+  mana: *id183
+  attack: *id184
+  magic: *id185
+  ranged: *id186
+  speed: *id187
+  armor: *id188
+  health: *id189
+- name: Gravebrand Warlock
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - []
+  - - Swiftness
+  - []
+  - - Execute
+  - []
+  - []
+  - []
+  - - Soul Siphon
+  mana: *id190
+  attack: *id191
+  magic: *id192
+  ranged: *id193
+  speed: *id194
+  armor: *id195
+  health: *id196
+- name: Joraki Venshiro
+  level: 2
+  copies: 1
+  rarity: 3
+  gold: true
+  abilities:
+  - - Painforge
+  - - Blind
+  - - Piercing
+  - []
+  - []
+  - - Affliction
+  - []
+  - []
+  mana: *id197
+  attack: *id198
+  magic: *id199
+  ranged: *id200
+  speed: *id201
+  armor: *id202
+  health: *id203
+- name: Kelan Gaines
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Snipe
+  - - Phase
+  - []
+  - - Backfire
+  - []
+  - []
+  - []
+  - - Double Strike
+  mana:
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  - 8
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 6
+  - 6
+  - 7
+  - 7
+  - 8
+  - 9
+  - 9
+  - 9
+- name: Revealer
+  level: 2
+  copies: 1
+  rarity: 3
+  gold: true
+  abilities:
+  - - Stun
+  - []
+  - []
+  - - Immunity
+  - []
+  - - Deflect
+  - []
+  - []
+  mana: *id204
+  attack: *id205
+  magic: *id206
+  ranged: *id207
+  speed: *id208
+  armor: *id209
+  health: *id210
+- name: Carrion Shade
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - []
+  - []
+  - - Flying
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: *id211
+  attack: *id212
+  magic: *id213
+  ranged: *id214
+  speed: *id215
+  armor: *id216
+  health: *id217
+- name: Crypt Beetle
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Shield
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  mana: *id218
+  attack: *id219
+  magic: *id220
+  ranged: *id221
+  speed: *id222
+  armor: *id223
+  health: *id224
+- name: Night Ghoul
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Taunt
+  - []
+  - []
+  - []
+  - []
+  - - Forcefield
+  - []
+  - []
+  mana:
+  - 11
+  - 11
+  - 11
+  - 11
+  - 11
+  - 11
+  - 11
+  - 11
+  - 11
+  - 11
+  attack:
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  armor:
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  health:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 11
+  - 11
+- name: Arachne Thug
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Reach
+  - []
+  - []
+  - []
+  - - Trample
+  - []
+  - []
+  - []
+  mana:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  attack:
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  health:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 7
+  - 7
+  - 7

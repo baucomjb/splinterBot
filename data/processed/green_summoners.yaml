@@ -1,0 +1,60 @@
+- name: Lobb Lowland
+  mana: 6
+  level: 4
+  copies: 6
+  rarity: 2
+  gold: false
+- name: Obsidian
+  mana: 4
+  level: 8
+  copies: 2
+  rarity: 2
+  gold: true
+- name: Obsidian
+  mana: 4
+  level: 2
+  copies: 2
+  rarity: 2
+  gold: false
+- name: Kaylia Silverleaf
+  mana: 4
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Aurelia
+  mana: 6
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Chuul Jujinchi
+  mana: 3
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+- name: Elowen Sylphie
+  mana: 7
+  level: 1
+  copies: 1
+  rarity: 4
+  gold: false
+- name: Aurelia
+  mana: 6
+  level: 1
+  copies: 2
+  rarity: 2
+  gold: false
+- name: Mylor Crowling
+  mana: 3
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Underboss Fabino
+  mana: 5
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true

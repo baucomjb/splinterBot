@@ -1,0 +1,141 @@
+# Summoner Abilities - Team Buffs Applied by Summoner
+# 
+# Format: Each summoner lists abilities that apply to their summoned team
+# This is used to show team buffs in team selection logs
+#
+# SOURCE: Splinterlands game mechanics
+#
+# Chaos Legion Rare summoner abilities:
+# - Kelya Frendul: +1 Armor, +1 Speed
+# - Tarsa: +1 Melee Attack
+# - Octavia Shadowmeld: Reduce opponent Melee by 1
+# - Eternan Brune: +1 Health
+# - Franz Ruffmane: +1 Ranged Attack
+# - Helios Matriarch: +1 Magic Attack
+# - General Sloan: +1 Melee Attack
+
+chaos_legion_rare:
+  Kelya Frendul:
+    id: 437
+    color: Blue
+    abilities: 
+      - "+1 Armor to all monsters"
+      - "+1 Speed to all monsters"
+  
+  Tarsa:
+    id: 440
+    color: Black
+    abilities:
+      - "+1 Melee Attack to all monsters"
+  
+  Octavia Shadowmeld:
+    id: 548
+    color: Black
+    abilities:
+      - "Reduce opponent Melee Attack by 1"
+  
+  Eternan Brune:
+    id: 550
+    color: Green
+    abilities:
+      - "+1 Health to all monsters"
+  
+  Franz Ruffmane:
+    id: 551
+    color: Red
+    abilities:
+      - "+1 Ranged Attack to all monsters"
+  
+  Helios Matriarch:
+    id: 552
+    color: White
+    abilities:
+      - "+1 Magic Attack to all monsters"
+  
+  General Sloan:
+    id: 441
+    color: White
+    abilities:
+      - "+1 Melee Attack to all monsters"
+
+# Legendary summoner abilities
+# Data sourced from Splinterlands API: https://api2.splinterlands.com/cards/get_details
+# Includes team buffs (stat modifications) and Pallando options (special unit abilities)
+legendary_summoners:
+  Elias Max Pruitt:
+    id: 657
+    colors: [White, Blue]
+    team_buffs:
+      - "+7 Mana"
+      - "+1 Melee Attack to all monsters"
+      - "+1 Armor to all monsters"
+    pallando_options:
+      - name: RepairCleanse
+        description: "Give Repair and Cleanse to One Unit"
+        abilities: [Repair, Cleanse]
+        target_type: unit
+        max: 1
+      - name: ArmoredStrikePiercing
+        description: "Give Armored Strike and Piercing to 1 Unit"
+        abilities: [Armored Strike, Piercing]
+        target_type: unit
+        max: 1
+  
+  Quix the Devious:
+    id: 442
+    color: Dragon
+    team_buffs:
+      - "+4 Mana"
+      - "-1 Ranged Attack to all monsters"
+      - "-1 Speed to all monsters"
+    pallando_options: []
+  
+  Lorkus:
+    id: 653
+    color: Black
+    team_buffs:
+      - "+7 Mana"
+      - "+1 Melee Attack to all monsters"
+      - "+1 Magic Attack to all monsters"
+    pallando_options:
+      - name: Life-Leech/Affliction
+        description: "Give Life Leech and Affliction to 2 Units"
+        abilities: [Life Leech, Affliction]
+        target_type: unit
+        max: 2
+      - name: Furious Trample
+        description: "Give Trample and Fury to 2 Units"
+        abilities: [Trample, Fury]
+        target_type: unit
+        max: 2
+  
+  Elowen Sylphie:
+    id: 920
+    color: White
+    team_buffs:
+      - "+7 Mana"
+    pallando_options:
+      - name: Resurge-Trample
+        description: "Give Resurgence & Trample to 2 units"
+        abilities: [Resurgence, Trample]
+        target_type: unit
+        max: 2
+  
+  Nidhoggr:
+    id: 658
+    color: Dragon
+    team_buffs:
+      - "+10 Mana"
+      - "-1 Armor to all monsters"
+      - "-1 Health to all monsters"
+    pallando_options:
+      - name: Death Blast
+        description: "Give Blast and Deathblow to 3 Units"
+        abilities: [Deathblow, Blast]
+        target_type: unit
+        max: 3
+      - name: Speedy Execute
+        description: "Give +2 Speed and Execute to 3 Units"
+        abilities: [Execute]
+        target_type: unit
+        max: 3

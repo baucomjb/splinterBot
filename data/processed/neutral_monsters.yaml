@@ -1,0 +1,1224 @@
+- name: Twilight Basilisk
+  mana: 4
+  level: 6
+  copies: 7
+  rarity: 2
+  gold: false
+  abilities:
+  - - Reach
+  - []
+  - []
+  - []
+  - - Stun
+  - []
+  - []
+  - []
+  attack: &id025
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  magic: &id026
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id027
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id028
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id029
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  health: &id030
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+- name: Dragon Egg Forager
+  mana: 5
+  level: 5
+  copies: 9
+  rarity: 2
+  gold: false
+  abilities:
+  - - Opportunity
+  - []
+  - - Scavenger
+  - []
+  - []
+  - []
+  - []
+  - []
+  attack:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 5
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 7
+  - 7
+  - 7
+- name: Naga Assassin
+  mana: 2
+  level: 5
+  copies: 3
+  rarity: 2
+  gold: false
+  abilities:
+  - []
+  - []
+  - []
+  - - Backfire
+  - []
+  - []
+  - []
+  - - Swiftness
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  speed:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 2
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+- name: Dhampir Infiltrator
+  mana: 4
+  level: 5
+  copies: 6
+  rarity: 2
+  gold: false
+  abilities:
+  - - Sneak
+    - Double Strike
+  - []
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  - - Affliction
+  attack: &id001
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  magic: &id002
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id003
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id004
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  armor: &id005
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health: &id006
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+- name: Dragonfang Lancer
+  mana: 6
+  level: 4
+  copies: 2
+  rarity: 2
+  gold: false
+  abilities:
+  - - Opportunity
+  - []
+  - []
+  - - Reflexes
+  - []
+  - []
+  - []
+  - - Mimic
+  attack: &id019
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id020
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id021
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  speed: &id022
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id023
+  - 2
+  - 2
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  health: &id024
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+- name: Djinn Chwala
+  mana: 8
+  level: 4
+  copies: 3
+  rarity: 3
+  gold: false
+  abilities:
+  - - Thorns
+  - []
+  - []
+  - - Enrage
+  - []
+  - - True Strike
+  - []
+  - []
+  attack: &id007
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  magic: &id008
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id009
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id010
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  armor: &id011
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  health: &id012
+  - 9
+  - 9
+  - 10
+  - 10
+  - 10
+  - 10
+- name: Night Reaper
+  mana: 11
+  level: 3
+  copies: 3
+  rarity: 3
+  gold: false
+  abilities:
+  - - Flying
+    - Wingbreak
+  - []
+  - - Deflect
+  - []
+  - []
+  - - Last Stand
+  - []
+  - []
+  attack: &id013
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic: &id014
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  ranged: &id015
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id016
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor: &id017
+  - 0
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  health: &id018
+  - 9
+  - 9
+  - 10
+  - 10
+  - 10
+  - 10
+- name: Kra'ar Xoc
+  mana: 1
+  level: 2
+  copies: 3
+  rarity: 3
+  gold: false
+  abilities:
+  - - Scavenger
+  - []
+  - []
+  - []
+  - []
+  - - Redemption
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 2
+  - 2
+  - 3
+  - 4
+  - 5
+  - 5
+- name: Dhampir Infiltrator
+  mana: 4
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Sneak
+    - Double Strike
+  - []
+  - []
+  - []
+  - - Cripple
+  - []
+  - []
+  - - Affliction
+  attack: *id001
+  magic: *id002
+  ranged: *id003
+  speed: *id004
+  armor: *id005
+  health: *id006
+- name: Berix Snakeye
+  mana: 10
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Weapons Training
+    - Void Armor
+  - - Oppress
+  - - True Strike
+  - []
+  - []
+  - []
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 3
+  - 3
+  - 3
+  - 4
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 6
+  - 7
+  - 8
+  - 8
+  health:
+  - 5
+  - 6
+  - 7
+  - 7
+- name: Chaos Dragon
+  mana: 14
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Flying
+    - Scattershot
+  - - Blast
+  - - Blind
+  - []
+  - []
+  - []
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 3
+  - 3
+  - 3
+  - 4
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 4
+  - 4
+  - 4
+  - 4
+  health:
+  - 10
+  - 10
+  - 10
+  - 10
+- name: Carnage Titan
+  mana: 11
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Reach
+    - Double Strike
+  - []
+  - - Shield
+  - []
+  - []
+  - []
+  - []
+  - []
+  attack: &id031
+  - 2
+  - 3
+  - 3
+  - 4
+  magic: &id032
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged: &id033
+  - 0
+  - 0
+  - 0
+  - 0
+  speed: &id034
+  - 3
+  - 3
+  - 3
+  - 3
+  armor: &id035
+  - 7
+  - 7
+  - 7
+  - 7
+  health: &id036
+  - 8
+  - 8
+  - 8
+  - 8
+- name: Djinn Chwala
+  mana: 8
+  level: 3
+  copies: 2
+  rarity: 3
+  gold: true
+  abilities:
+  - - Thorns
+  - []
+  - []
+  - - Enrage
+  - []
+  - - True Strike
+  - []
+  - []
+  attack: *id007
+  magic: *id008
+  ranged: *id009
+  speed: *id010
+  armor: *id011
+  health: *id012
+- name: Syrenth
+  mana: 9
+  level: 1
+  copies: 2
+  rarity: 4
+  gold: false
+  abilities:
+  - - Taunt
+  - - Dodge
+  - - Return Fire
+  - - Stun
+  - []
+  - []
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 4
+  - 4
+  - 4
+  - 4
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 1
+  - 1
+  - 1
+  health:
+  - 8
+  - 9
+  - 10
+  - 10
+- name: Songale
+  mana: 7
+  level: 1
+  copies: 1
+  rarity: 3
+  gold: false
+  abilities:
+  - - Reckless
+    - Taunt
+  - - Enrage
+  - - Bloodline Tribute
+  - []
+  - - Redemption
+  - []
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  health:
+  - 8
+  - 8
+  - 8
+  - 9
+  - 9
+  - 9
+- name: Kazira Vaelstrik
+  mana: 10
+  level: 1
+  copies: 2
+  rarity: 3
+  gold: false
+  abilities:
+  - - Flying
+    - Immunity
+  - []
+  - - Close Range
+  - []
+  - []
+  - - Last Word
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 2
+  - 3
+  - 3
+  - 3
+  - 4
+  - 5
+  speed:
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  - 4
+  armor:
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  health:
+  - 8
+  - 8
+  - 8
+  - 9
+  - 9
+  - 9
+- name: Vruz
+  mana: 2
+  level: 1
+  copies: 4
+  rarity: 1
+  gold: false
+  abilities:
+  - - Sneak
+  - []
+  - []
+  - []
+  - - Martyr
+  - []
+  - []
+  - []
+  attack:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 4
+  - 4
+  - 5
+  - 5
+  - 4
+  - 5
+  - 6
+  - 6
+  - 7
+  - 7
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 1
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+- name: Larissa Kerato
+  mana: 7
+  level: 1
+  copies: 1
+  rarity: 4
+  gold: false
+  abilities:
+  - - Double Strike
+    - Bloodlust
+  - - Void
+  - - Dispel
+  - - Blast
+  - []
+  - []
+  - []
+  - []
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 2
+  - 2
+  - 2
+  - 2
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 2
+  - 2
+  - 2
+  - 2
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 3
+  - 3
+  - 3
+  - 3
+- name: Night Reaper
+  mana: 11
+  level: 2
+  copies: 1
+  rarity: 3
+  gold: true
+  abilities:
+  - - Flying
+    - Wingbreak
+  - []
+  - - Deflect
+  - []
+  - []
+  - - Last Stand
+  - []
+  - []
+  attack: *id013
+  magic: *id014
+  ranged: *id015
+  speed: *id016
+  armor: *id017
+  health: *id018
+- name: Dragonfang Lancer
+  mana: 6
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Opportunity
+  - []
+  - []
+  - - Reflexes
+  - []
+  - []
+  - []
+  - - Mimic
+  attack: *id019
+  magic: *id020
+  ranged: *id021
+  speed: *id022
+  armor: *id023
+  health: *id024
+- name: Twilight Basilisk
+  mana: 4
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Reach
+  - []
+  - []
+  - []
+  - - Stun
+  - []
+  - []
+  - []
+  attack: *id025
+  magic: *id026
+  ranged: *id027
+  speed: *id028
+  armor: *id029
+  health: *id030
+- name: Carnage Titan
+  mana: 11
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: true
+  abilities:
+  - - Reach
+    - Double Strike
+  - []
+  - - Shield
+  - []
+  - []
+  - []
+  - []
+  - []
+  attack: *id031
+  magic: *id032
+  ranged: *id033
+  speed: *id034
+  armor: *id035
+  health: *id036
+- name: Whelp Herder
+  mana: 3
+  level: 3
+  copies: 1
+  rarity: 1
+  gold: true
+  abilities:
+  - - Opportunity
+  - []
+  - []
+  - []
+  - - Snare
+  - []
+  - []
+  - []
+  attack:
+  - 1
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  speed:
+  - 1
+  - 2
+  - 2
+  - 2
+  - 2
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  armor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  health:
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 5
+  - 6
+  - 6
+- name: Runic Skyclaw
+  mana: 9
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+  abilities:
+  - - Flying
+    - Snipe
+  - []
+  - []
+  - []
+  - - Deflect
+  - []
+  - []
+  - - Giant Killer
+  attack:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  magic:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  ranged:
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  - 4
+  - 5
+  - 5
+  speed:
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  armor:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 4
+  - 4
+  - 4
+  health:
+  - 5
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6

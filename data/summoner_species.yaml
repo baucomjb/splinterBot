@@ -1,0 +1,121 @@
+# Summoner species/race data
+# Used for species-based bonuses - summoners of a certain species give bonuses to monsters of the same species
+# Data sourced from Splinterlands API: https://api2.splinterlands.com/cards/get_details
+
+species_by_summoner:
+  Akane: Drakoshan
+  Alric Stormbringer: Human
+  Aquatus: Materran
+  Archmage Arius: Human
+  Astral Entity: Elemental
+  Aurelia: Fey
+  Avina of the Wolf: Human
+  Barthalamas: Djinn
+  Bella Ratajowlski: Ulund
+  Bortus: Tortisian
+  Brave the Bull: Minotaur
+  Brewmaster Abraxas: Saurian
+  Brighton Bloom: Human
+  Byzantine Kitty: Celestial
+  Camila Sungazer: Human
+  Captain Frankie: Awakened Beast
+  Chanseus the Great: Human
+  Chuul Jujinchi: Tortisian
+  Conqueror Jacek: Giant
+  Contessa L'ament: Undead
+  Crypt Mancer: Undead
+  Cryptic: Human
+  Dallan: Human
+  Daria Dragonscale: Elf
+  Delwyn Dragonscale: Golem
+  Dolfar Darflak: Dwarf
+  Dragonlord Mancer: Human
+  Drake of Arnak: Drakoshan
+  Elias Max Pruitt: Human
+  Elowen Sylphie: Elf
+  Eternal Tofu: Awakened Beast
+  Eternan Brune: Llamataur
+  Fernheart: Human
+  Fithe Bladestone: Dwarf
+  Franz Ruffmane: Feliform
+  General Sloan: Ulund
+  Gorgug the Endless: Orc
+  Grandmaster Rathe: Human
+  Hanv: Undead
+  Helios Matriarch: Drakoshan
+  Ilthain: Undead
+  Immortalis: Human
+  Incessant Sage: Avian
+  Jarlax the Undead: Undead
+  Kavor Skarn: Drakoshan
+  Kaylia Silverleaf: Elf
+  Kelya Frendul: Human
+  Kiara Lightbringer: Human
+  Kretch Tallevor: Drakoshan
+  Lily Shieldpaw: Awakened Beast
+  Lir Deepswimmer: Human
+  Lobb Lowland: Awakened Beast
+  Lorkus: Human
+  Lorna Shine: Human
+  Loving the Moo: Minotaur
+  Lux Vega: Human
+  Lyanna Natura: Human
+  Malric Inferno: Djinn
+  Marlai Singariel: Tideborn
+  Mimosa Nightshade: Human
+  Mother Khala: Human
+  Mylor Crowling: Human
+  Neb Seni: Human
+  Nidhoggr: Dragon
+  Nomos: Human
+  Obsidian: Human
+  Octavia Shadowmeld: Human
+  Owster Rotwell: Human
+  Pembrook Nymph: Fey
+  Plado Emberstorm: Djinn
+  Possibilus the Wise: Chimeric Beast
+  Prince Julian: Human
+  Prince Rennyn: Elf
+  Prophet Rosa: Minotaur
+  Prunda Undervesch: Saurian
+  Pyre: Goblin
+  Qid Yuff: Bruteborn
+  Quix the Devious: Drakoshan
+  Razi Clanktrap: Gnome
+  Reklah: Undead
+  Risqruel Drath: Awakened Beast
+  Scarred Llama Mage: Awakened Beast
+  Selenia Sky: Human
+  Sheng Xiao: Dragon
+  Skargore: Dwarf
+  Sthispa: Saurian
+  Talia Firestorm: Drakoshan
+  Tarsa: Human
+  Thaddius Brood: Human
+  Thalgrimore: Fiend
+  The Peakrider: Fiend
+  Tyrus Paladium: Human
+  Underboss Fabino: Goblin
+  Valnamor: Human
+  Vera Salacia: Human
+  Waka Spiritblade: Human
+  Wizard of Eastwood: Human
+  Xander Foxwood: Fey
+  Xia Seachan: Saurian
+  Yodin Zaku: Fiend
+  Zeddica: Human
+  Zintar Mortalis: Undead
+
+# Species bonus definitions
+# Format: Each species defines what stat bonuses it gives to its own species
+# Example: Elf summoners give +1 stat to other Elf monsters they summon
+species_bonuses:
+  # TODO: Define bonuses per species from game data
+  # For now, placeholder structure
+  Human: {}
+  Elf: {}
+  Drakoshan: {}
+  Dragon: {}
+  Undead: {}
+  Dwarf: {}
+  # ... more species to be populated

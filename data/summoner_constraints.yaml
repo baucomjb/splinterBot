@@ -1,0 +1,253 @@
+note: Summoner collection metadata. Card constraints are in SummonerLevels.json
+summoners:
+  common_summoners:
+    Brewmaster Abraxas:
+      card_detail_id: 641
+      card_set: rebellion
+      colors:
+      - Red
+      - Green
+      disable: false
+      foil: Regular
+    Chuul Jujinchi:
+      card_detail_id: 639
+      card_set: rebellion
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Zeddica:
+      card_detail_id: 638
+      card_set: rebellion
+      colors:
+      - Blue
+      disable: false
+      foil: Regular
+  epic_summoners:
+    Daria Dragonscale:
+      card_detail_id: 88
+      card_set: beta
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+  legendary_summoners:
+    Elias Max Pruitt:
+      card_detail_id: 657
+      card_set: rebellion
+      colors:
+      - White
+      - Blue
+      disable: false
+      foil: Regular
+    Elowen Sylphie:
+      card_detail_id: 920
+      card_set: conclave
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Lorkus:
+      card_detail_id: 653
+      card_set: rebellion
+      colors:
+      - Black
+      disable: false
+      foil: Regular
+    Nidhoggr:
+      card_detail_id: 658
+      card_set: rebellion
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+    Quix the Devious:
+      card_detail_id: 442
+      card_set: chaos
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+  rare_summoners:
+    Aurelia:
+      card_detail_id: 827
+      card_set: foundations
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Avina of the Wolf:
+      card_detail_id: 644
+      card_set: rebellion
+      colors:
+      - White
+      disable: false
+      foil: Regular
+    Barthalamas:
+      card_detail_id: 818
+      card_set: foundations
+      colors:
+      - Red
+      disable: false
+      foil: Regular
+    Brighton Bloom:
+      card_detail_id: 262
+      card_set: untamed
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+    Drake of Arnak:
+      card_detail_id: 224
+      card_set: untamed
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+    Eternan Brune:
+      card_detail_id: 550
+      card_set: chaos
+      colors:
+      - Red
+      disable: false
+      foil: Regular
+    Franz Ruffmane:
+      card_detail_id: 551
+      card_set: chaos
+      colors:
+      - White
+      disable: false
+      foil: Regular
+    General Sloan:
+      card_detail_id: 441
+      card_set: chaos
+      colors:
+      - White
+      disable: false
+      foil: Regular
+    Helios Matriarch:
+      card_detail_id: 552
+      card_set: chaos
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+    Incessant Sage:
+      card_detail_id: 836
+      card_set: foundations
+      colors:
+      - White
+      disable: false
+      foil: Regular
+    Kavor Skarn:
+      card_detail_id: 802
+      card_set: conclave
+      colors:
+      - Dragon
+      disable: false
+      foil: Gold
+    Kaylia Silverleaf:
+      card_detail_id: 798
+      card_set: conclave
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Kelya Frendul:
+      card_detail_id: 437
+      card_set: chaos
+      colors:
+      - Blue
+      disable: false
+      foil: Regular
+    Lobb Lowland:
+      card_detail_id: 549
+      card_set: chaos
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Marlai Singariel:
+      card_detail_id: 845
+      card_set: foundations
+      colors:
+      - Blue
+      disable: false
+      foil: Regular
+    Mylor Crowling:
+      card_detail_id: 259
+      card_set: untamed
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Nomos:
+      card_detail_id: 646
+      card_set: rebellion
+      colors:
+      - Red
+      disable: false
+      foil: Regular
+    Obsidian:
+      card_detail_id: 439
+      card_set: chaos
+      colors:
+      - Green
+      disable: false
+      foil: Regular
+    Octavia Shadowmeld:
+      card_detail_id: 548
+      card_set: chaos
+      colors:
+      - Black
+      disable: false
+      foil: Regular
+    Pembrook Nymph:
+      card_detail_id: 547
+      card_set: chaos
+      colors:
+      - Blue
+      disable: false
+      foil: Regular
+    Prophet Rosa:
+      card_detail_id: 645
+      card_set: rebellion
+      colors:
+      - Blue
+      disable: false
+      foil: Regular
+    Reklah:
+      card_detail_id: 643
+      card_set: rebellion
+      colors:
+      - Black
+      disable: false
+      foil: Regular
+    Tarsa:
+      card_detail_id: 440
+      card_set: chaos
+      colors:
+      - Red
+      disable: false
+      foil: Regular
+    Thaddius Brood:
+      card_detail_id: 438
+      card_set: chaos
+      colors:
+      - Black
+      disable: false
+      foil: Regular
+    Thalgrimore:
+      card_detail_id: 809
+      card_set: foundations
+      colors:
+      - Black
+      disable: false
+      foil: Regular
+    Underboss Fabino:
+      card_detail_id: 642
+      card_set: rebellion
+      colors:
+      - Green
+      disable: false
+      foil: Regular

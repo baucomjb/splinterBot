@@ -1,0 +1,42 @@
+- name: Franz Ruffmane
+  mana: 6
+  level: 5
+  copies: 1
+  rarity: 2
+  gold: false
+- name: General Sloan
+  mana: 4
+  level: 5
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Elias Max Pruitt
+  mana: 7
+  level: 4
+  copies: 1
+  rarity: 4
+  gold: false
+- name: Franz Ruffmane
+  mana: 6
+  level: 3
+  copies: 2
+  rarity: 2
+  gold: true
+- name: Incessant Sage
+  mana: 6
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Avina of the Wolf
+  mana: 5
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Incessant Sage
+  mana: 6
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false

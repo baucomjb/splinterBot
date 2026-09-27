@@ -1,0 +1,36 @@
+
+============================================================
+🔥 WATER BOT TEAM SELECTION
+============================================================
+
+Battle Conditions:
+  Mana Cap: 40
+  Rulesets: None
+  Allowed Splinters: ['Death']
+  Card Pool Size: 526 total cards
+
+✅ Selected Summoner: Lorkus (Lvl 2)
+   Details: Melee 1 | HP 0 Armor 0 | Spd 0 | Abilities: [None] | Legendary
+   Splinter Colors: Black
+✅ Found 139 available monsters for summoner
+   Team Buffs:
+     • +7 Mana
+     • +1 Melee Attack to all monsters
+     • +1 Magic Attack to all monsters
+   Pallando Options:
+     • Give Life Leech and Affliction to 2 Units
+     • Give Trample and Fury to 2 Units
+
+✅ Selected 5 Monsters (Mana: 7 summoner + 33 monsters = 40/40):
+   Selection criteria: High defense (armor+health), effective levels per summoner constraints
+   1. Night Ghoul (Lvl 3)
+      Mana: 11 | Defense: 15 | Melee 4 | HP 10 Armor 5 | Spd 2 | Abilities: [Taunt] | Common
+   2. Usut (L3→L2)
+      Mana: 10 | Defense: 15 | Magic 2 | HP 11 Armor 4 | Spd 1 | Abilities: [Flying, Bloodlust, Oppress] | Legendary
+   3. Xulax Nightwind (Lvl 1)
+      Mana: 9 | Defense: 14 | Melee 3 | HP 7 Armor 7 | Spd 3 | Abilities: [Void Armor, Bloodlust] | Legendary
+   4. Wily Coyotian (L7→L5)
+      Mana: 2 | Defense: 8 | Melee 1 | HP 5 Armor 3 | Spd 3 | Abilities: [None] | Common
+   5. Grifzi (Lvl 2)
+      Mana: 1 | Defense: 3 | Melee 1 | HP 3 Armor 0 | Spd 2 | Abilities: [Sneak] | Legendary
+============================================================

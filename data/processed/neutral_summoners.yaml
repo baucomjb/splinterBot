@@ -1,0 +1,54 @@
+- name: Helios Matriarch
+  mana: 6
+  level: 5
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Daria Dragonscale
+  mana: 4
+  level: 4
+  copies: 1
+  rarity: 3
+  gold: false
+- name: Kavor Skarn
+  mana: 3
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Quix the Devious
+  mana: 4
+  level: 3
+  copies: 1
+  rarity: 4
+  gold: true
+- name: Nidhoggr
+  mana: 10
+  level: 1
+  copies: 1
+  rarity: 4
+  gold: false
+- name: Kavor Skarn
+  mana: 3
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Brighton Bloom
+  mana: 4
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Helios Matriarch
+  mana: 6
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Drake of Arnak
+  mana: 4
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true

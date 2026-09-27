@@ -1,0 +1,32 @@
+
+============================================================
+🔥 WATER BOT TEAM SELECTION
+============================================================
+
+Battle Conditions:
+  Mana Cap: 40
+  Rulesets: None
+  Allowed Splinters: ['Fire', 'Life', 'Earth', 'Death', 'Water', 'Dragon']
+  Card Pool Size: 526 total cards
+
+✅ Selected Summoner: Quix the Devious (Lvl 3)
+   Details: No Attack | HP 0 Armor 0 | Spd -1 | Abilities: [None] | Legendary
+   Splinter Colors: Dragon
+   (Dragon summoner - can use Dragon + available splinters: Black, Blue, Dragon, Green, Red, White)
+✅ Found 446 available monsters for summoner
+   Team Buffs:
+     • +4 Mana
+     • -1 Ranged Attack to all monsters
+     • -1 Speed to all monsters
+
+✅ Selected 4 Monsters (Mana: 4 summoner + 36 monsters = 40/40):
+   Selection criteria: High defense (armor+health), effective levels per summoner constraints
+   1. Uriel the Purifier (Lvl 2)
+      Mana: 11 | Defense: 17 | Melee 3 | HP 11 Armor 6 | Spd 3 | Abilities: [Flying, Recharge, Heal] | Legendary
+   2. Grum Flameblade (Lvl 2)
+      Mana: 11 | Defense: 17 | Melee 4 | HP 12 Armor 5 | Spd 1 | Abilities: [Bloodlust, Void Armor, Void] | Legendary
+   3. Imperial Knight (Lvl 7)
+      Mana: 7 | Defense: 16 | Melee 3 | HP 9 Armor 7 | Spd 2 | Abilities: [Void Armor, Heal] | Common
+   4. Saltwraith Bulkhead (Lvl 4)
+      Mana: 7 | Defense: 15 | Melee 5 | HP 9 Armor 6 | Spd 4 | Abilities: [Weary, Oppress] | Rare
+============================================================

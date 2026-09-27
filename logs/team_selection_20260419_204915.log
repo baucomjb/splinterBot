@@ -1,0 +1,33 @@
+
+============================================================
+🔥 WATER BOT TEAM SELECTION
+============================================================
+
+Battle Conditions:
+  Mana Cap: 40
+  Rulesets: None
+  Allowed Splinters: ['Life', 'Water']
+  Card Pool Size: 526 total cards
+
+✅ Selected Summoner: Elias Max Pruitt (Lvl 2)
+   Details: Melee 1 | HP 0 Armor 1 | Spd 0 | Abilities: [None] | Legendary
+   Splinter Colors: White, Blue
+✅ Found 215 available monsters for summoner
+   Team Buffs:
+     • +7 Mana
+     • +1 Melee Attack to all monsters
+     • +1 Armor to all monsters
+
+✅ Selected 5 Monsters (Mana: 7 summoner + 33 monsters = 40/40):
+   Selection criteria: High defense (armor+health), effective levels per summoner constraints
+   1. Uriel the Purifier (Lvl 2)
+      Mana: 11 | Defense: 17 | Melee 3 | HP 11 Armor 6 | Spd 3 | Abilities: [Flying, Recharge, Heal] | Legendary
+   2. Imperial Knight (L7→L5)
+      Mana: 7 | Defense: 16 | Melee 3 | HP 9 Armor 7 | Spd 2 | Abilities: [Void Armor, Heal] | Common
+   3. Relenor Cleaver (Lvl 4)
+      Mana: 9 | Defense: 16 | Melee 5 | HP 7 Armor 9 | Spd 2 | Abilities: [Bloodlust, Reach] | Rare
+   4. Evelyn Auvera (Lvl 3)
+      Mana: 5 | Defense: 13 | No Attack | HP 5 Armor 8 | Spd 2 | Abilities: [Immunity, Thorns] | Epic
+   5. Hardy Stonefish (Lvl 3)
+      Mana: 1 | Defense: 3 | Melee 1 | HP 2 Armor 1 | Spd 1 | Abilities: [None] | Common
+============================================================

@@ -1,0 +1,1315 @@
+[
+  {
+    "card_detail_id": 5,
+    "name": "Malric Inferno",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 16,
+    "name": "Alric Stormbringer",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 27,
+    "name": "Lyanna Natura",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 38,
+    "name": "Tyrus Paladium",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 49,
+    "name": "Zintar Mortalis",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 56,
+    "name": "Selenia Sky",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 70,
+    "name": "Talia Firestorm",
+    "splinter": "Red",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 71,
+    "name": "Xia Seachan",
+    "splinter": "Blue",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 72,
+    "name": "Xander Foxwood",
+    "splinter": "Green",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 73,
+    "name": "Kiara Lightbringer",
+    "splinter": "White",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 74,
+    "name": "Jarlax the Undead",
+    "splinter": "Black",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 78,
+    "name": "Neb Seni",
+    "splinter": "Gold",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 88,
+    "name": "Daria Dragonscale",
+    "splinter": "Gold",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 109,
+    "name": "Crypt Mancer",
+    "splinter": "Black",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 110,
+    "name": "Plado Emberstorm",
+    "splinter": "Red",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 111,
+    "name": "Valnamor",
+    "splinter": "Blue",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 112,
+    "name": "Prince Rennyn",
+    "splinter": "Green",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 113,
+    "name": "The Peakrider",
+    "splinter": "White",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 114,
+    "name": "Delwyn Dragonscale",
+    "splinter": "Gold",
+    "rarity": 1,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 130,
+    "name": "Archmage Arius",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 145,
+    "name": "Contessa L'ament",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 156,
+    "name": "Mother Khala",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 167,
+    "name": "Pyre",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 178,
+    "name": "Bortus",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 189,
+    "name": "Wizard of Eastwood",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 200,
+    "name": "Camila Sungazer",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 205,
+    "name": "Prince Julian",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 224,
+    "name": "Drake of Arnak",
+    "splinter": "Gold",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 235,
+    "name": "Mimosa Nightshade",
+    "splinter": "Black",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 236,
+    "name": "Yodin Zaku",
+    "splinter": "Red",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 239,
+    "name": "Chanseus the Great",
+    "splinter": "White",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 240,
+    "name": "Kretch Tallevor",
+    "splinter": "Gold",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 254,
+    "name": "Lir Deepswimmer",
+    "splinter": "Blue",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 257,
+    "name": "Vera Salacia",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 258,
+    "name": "Owster Rotwell",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 259,
+    "name": "Mylor Crowling",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 260,
+    "name": "Qid Yuff",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 261,
+    "name": "Lorna Shine",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 262,
+    "name": "Brighton Bloom",
+    "splinter": "Gold",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 278,
+    "name": "Scarred Llama Mage",
+    "splinter": "Green",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 291,
+    "name": "Byzantine Kitty",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 437,
+    "name": "Kelya Frendul",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 438,
+    "name": "Thaddius Brood",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 439,
+    "name": "Obsidian",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 440,
+    "name": "Tarsa",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 441,
+    "name": "General Sloan",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 442,
+    "name": "Quix the Devious",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 449,
+    "name": "Waka Spiritblade",
+    "splinter": "Black",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 463,
+    "name": "Grandmaster Rathe",
+    "splinter": "White",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 464,
+    "name": "Conqueror Jacek",
+    "splinter": "Red",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 498,
+    "name": "Aquatus",
+    "splinter": "Blue",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 499,
+    "name": "Dallan",
+    "splinter": "Black",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 500,
+    "name": "Fernheart",
+    "splinter": "Green",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 501,
+    "name": "Skargore",
+    "splinter": "Red",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 502,
+    "name": "Ilthain",
+    "splinter": "White",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 503,
+    "name": "Sthispa",
+    "splinter": "Gold",
+    "rarity": 3,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 506,
+    "name": "Lux Vega",
+    "splinter": "Gray",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gray"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 507,
+    "name": "Possibilus the Wise",
+    "splinter": "Blue",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 509,
+    "name": "Immortalis",
+    "splinter": "Green",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 547,
+    "name": "Pembrook Nymph",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 548,
+    "name": "Octavia Shadowmeld",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 549,
+    "name": "Lobb Lowland",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 550,
+    "name": "Eternan Brune",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 551,
+    "name": "Franz Ruffmane",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 552,
+    "name": "Helios Matriarch",
+    "splinter": "Gold",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 553,
+    "name": "Astral Entity",
+    "splinter": "Black",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 554,
+    "name": "Lily Shieldpaw",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 637,
+    "name": "Dolfar Darflak",
+    "splinter": "Black",
+    "rarity": 1,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 638,
+    "name": "Zeddica",
+    "splinter": "Blue",
+    "rarity": 1,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 639,
+    "name": "Chuul Jujinchi",
+    "splinter": "Green",
+    "rarity": 1,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 640,
+    "name": "Prunda Undervesch",
+    "splinter": "White",
+    "rarity": 1,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 641,
+    "name": "Brewmaster Abraxas",
+    "splinter": "Red",
+    "rarity": 1,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 642,
+    "name": "Underboss Fabino",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 643,
+    "name": "Reklah",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 644,
+    "name": "Avina of the Wolf",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 645,
+    "name": "Prophet Rosa",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 646,
+    "name": "Nomos",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 647,
+    "name": "Akane",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 653,
+    "name": "Lorkus",
+    "splinter": "Black",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 654,
+    "name": "Cryptic",
+    "splinter": "Blue",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 655,
+    "name": "Risqruel Drath",
+    "splinter": "Red",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 656,
+    "name": "Eternal Tofu",
+    "splinter": "Green",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 657,
+    "name": "Elias Max Pruitt",
+    "splinter": "White",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 658,
+    "name": "Nidhoggr",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 796,
+    "name": "Razi Clanktrap",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 797,
+    "name": "Gorgug the Endless",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 798,
+    "name": "Kaylia Silverleaf",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 799,
+    "name": "Bella Ratajowlski",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 800,
+    "name": "Fithe Bladestone",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 801,
+    "name": "Sheng Xiao",
+    "splinter": "Gold",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 802,
+    "name": "Kavor Skarn",
+    "splinter": "Gold",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Gold"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 809,
+    "name": "Thalgrimore",
+    "splinter": "Black",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 818,
+    "name": "Barthalamas",
+    "splinter": "Red",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 827,
+    "name": "Aurelia",
+    "splinter": "Green",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 836,
+    "name": "Incessant Sage",
+    "splinter": "White",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 845,
+    "name": "Marlai Singariel",
+    "splinter": "Blue",
+    "rarity": 2,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 870,
+    "name": "Loving the Moo",
+    "splinter": "Blue",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Blue"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 914,
+    "name": "Captain Frankie",
+    "splinter": "White",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "White"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 920,
+    "name": "Elowen Sylphie",
+    "splinter": "Green",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Green"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 925,
+    "name": "Hanv",
+    "splinter": "Red",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Red"
+    ],
+    "tags": []
+  },
+  {
+    "card_detail_id": 971,
+    "name": "Brave the Bull",
+    "splinter": "Black",
+    "rarity": 4,
+    "edition": null,
+    "mana": null,
+    "buffs_by_level": [],
+    "allowed_splinters": [
+      "Black"
+    ],
+    "tags": []
+  }
+]

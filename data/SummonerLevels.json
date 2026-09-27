@@ -1,0 +1,38 @@
+{
+  "common": {
+    "1": {"common": 1, "rare": 1, "epic": 1, "legendary": 1},
+    "2": {"common": 2, "rare": 2, "epic": 1, "legendary": 1},
+    "3": {"common": 3, "rare": 2, "epic": 2, "legendary": 1},
+    "4": {"common": 4, "rare": 3, "epic": 2, "legendary": 2},
+    "5": {"common": 5, "rare": 4, "epic": 3, "legendary": 2},
+    "6": {"common": 6, "rare": 5, "epic": 4, "legendary": 2},
+    "7": {"common": 7, "rare": 6, "epic": 4, "legendary": 3},
+    "8": {"common": 8, "rare": 6, "epic": 5, "legendary": 3},
+    "9": {"common": 9, "rare": 7, "epic": 5, "legendary": 4},
+    "10": {"common": 10, "rare": 8, "epic": 6, "legendary": 4}
+  },
+  "rare": {
+    "1": {"common": 1, "rare": 1, "epic": 1, "legendary": 1},
+    "2": {"common": 3, "rare": 2, "epic": 2, "legendary": 1},
+    "3": {"common": 4, "rare": 3, "epic": 2, "legendary": 2},
+    "4": {"common": 5, "rare": 4, "epic": 3, "legendary": 2},
+    "5": {"common": 6, "rare": 5, "epic": 4, "legendary": 3},
+    "6": {"common": 8, "rare": 6, "epic": 5, "legendary": 3},
+    "7": {"common": 9, "rare": 7, "epic": 5, "legendary": 4},
+    "8": {"common": 10, "rare": 8, "epic": 6, "legendary": 4}
+  },
+  "epic": {
+    "1": {"common": 2, "rare": 1, "epic": 1, "legendary": 1},
+    "2": {"common": 3, "rare": 3, "epic": 2, "legendary": 1},
+    "3": {"common": 5, "rare": 4, "epic": 3, "legendary": 2},
+    "4": {"common": 7, "rare": 5, "epic": 4, "legendary": 3},
+    "5": {"common": 8, "rare": 7, "epic": 5, "legendary": 3},
+    "6": {"common": 10, "rare": 8, "epic": 6, "legendary": 4}
+  },
+  "legendary": {
+    "1": {"common": 3, "rare": 2, "epic": 2, "legendary": 1},
+    "2": {"common": 5, "rare": 4, "epic": 3, "legendary": 2},
+    "3": {"common": 8, "rare": 6, "epic": 5, "legendary": 3},
+    "4": {"common": 10, "rare": 8, "epic": 6, "legendary": 4}
+  }
+}

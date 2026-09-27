@@ -1,0 +1,36 @@
+- name: Octavia Shadowmeld
+  mana: 6
+  level: 5
+  copies: 7
+  rarity: 2
+  gold: false
+- name: Thaddius Brood
+  mana: 4
+  level: 8
+  copies: 2
+  rarity: 2
+  gold: true
+- name: Thalgrimore
+  mana: 6
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Lorkus
+  mana: 7
+  level: 2
+  copies: 1
+  rarity: 4
+  gold: false
+- name: Octavia Shadowmeld
+  mana: 6
+  level: 3
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Reklah
+  mana: 5
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false

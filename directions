@@ -1,0 +1,10 @@
+please use the vscode_askQuestions and do not stop until select "I am done" from the dialogue box. do not proceed to the next issue until I select "I am done". Give me a single dialogue whenever possible
+
+In the logs please include the attack values and types. In addition, please detail the following:
+Attack type (magic, melee, ranged, none)
+health and armor
+speed
+abilities
+rarity level (common, rare, epic, legendary)
+
+Also keep in mind that the summoner rarity and level will determine the level of monster that can be summoned. For instance, Kelya at level 4 can only summon level 2 legendary monsters. can you find specifications for summoners?

@@ -1,0 +1,36 @@
+- name: Eternan Brune
+  mana: 6
+  level: 5
+  copies: 2
+  rarity: 2
+  gold: false
+- name: Tarsa
+  mana: 4
+  level: 5
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Barthalamas
+  mana: 6
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Brewmaster Abraxas
+  mana: 3
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+- name: Nomos
+  mana: 5
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Tarsa
+  mana: 4
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true

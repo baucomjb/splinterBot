@@ -1,0 +1,48 @@
+- name: Kelya Frendul
+  mana: 4
+  level: 5
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Pembrook Nymph
+  mana: 6
+  level: 4
+  copies: 4
+  rarity: 2
+  gold: false
+- name: Pembrook Nymph
+  mana: 6
+  level: 4
+  copies: 2
+  rarity: 2
+  gold: true
+- name: Marlai Singariel
+  mana: 6
+  level: 4
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Zeddica
+  mana: 3
+  level: 1
+  copies: 1
+  rarity: 1
+  gold: false
+- name: Marlai Singariel
+  mana: 6
+  level: 1
+  copies: 1
+  rarity: 2
+  gold: false
+- name: Prophet Rosa
+  mana: 5
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
+- name: Kelya Frendul
+  mana: 4
+  level: 2
+  copies: 1
+  rarity: 2
+  gold: true
